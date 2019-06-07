@@ -1,0 +1,15 @@
+   Erros:
+   -> Concorrência no acesso aos SoundFile
+   -> Ao fazer continue no fim do jogo o jogador fica preso no waitMatch
+   -> Definir que alterações fazer ao jogador (em modo Avatar) quando sob efeito de bonus
+
+   Melhorias:
+   -> Partida começa antes de o jogador clicar em Ok
+   -> Sair antes do tempo deve causar derrota
+   -> Guardar dados dos utilizadores no mnesia
+
+   Bonus que temos:
+   -> Esconder BestScores
+   -> Mais do que 2 jogadores por partida
+   -> Velocidade (10 segundos)
+   -> Invisibilidade (10 segundos)
