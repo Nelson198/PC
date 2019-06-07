@@ -8,31 +8,31 @@ Os avatares dos jogadores movimentam-se num espaço​ *2D* e, para além disso,
 ## Screenshots
 
 ### Menu principal
-![alt text](https://github.com/Nelson198/PC/Screenshots/Menu_Principal.png "Menu principal")  
+![Foto 1](https://github.com/Nelson198/PC/blob/master/Screenshots/Menu_Principal.png "Menu principal")  
 
-### Menu secundário
-![alt text](https://github.com/Nelson198/PC/Screenshots/Menu_Secundário.png "Menu secundário")  
+### Menu secundário (opções)
+![Foto 2](https://github.com/Nelson198/PC/blob/master/Screenshots/Menu_Secundário.png "Menu secundário")  
 
 ### Login
-![alt text](https://github.com/Nelson198/PC/Screenshots/Login.png "Login")  
+![Foto 3](https://github.com/Nelson198/PC/blob/master/Screenshots/Login.png "Login")  
 
 ### Registo
-![alt text](https://github.com/Nelson198/PC/Screenshots/Registo.png "Registo")  
+![Foto 4](https://github.com/Nelson198/PC/blob/master/Screenshots/Registo.png "Registo")  
 
 ### Cancelamento de registo
-![alt text](https://github.com/Nelson198/PC/Screenshots/Cancelamento_Registo.png "Cancelamento de registo")  
+![Foto 5](https://github.com/Nelson198/PC/blob/master/Screenshots/Cancelamento%20de%20registo.png "Cancelamento de registo")  
 
 ### Top 5 de pontuações
-![alt text](https://github.com/Nelson198/PC/Screenshots/Top_5.png "Top 5 de pontuações")  
+![Foto 6](https://github.com/Nelson198/PC/blob/master/Screenshots/Top_5.png "Top 5 de pontuações")  
 
 ### Partida de jogo
-![alt text](https://github.com/Nelson198/PC/Screenshots/Partida.png "Partida de jogo")  
+![Foto 7](https://github.com/Nelson198/PC/blob/master/Screenshots/Partida.png "Partida de jogo")  
 
 ### Ícones de jogo (bónus que pode ser ativado no menu secundário)
-![alt text](https://github.com/Nelson198/PC/Screenshots/Ícones.png "Ícones de jogo")  
+![Foto 8](https://github.com/Nelson198/PC/blob/master/Screenshots/Ícones.png "Ícones de jogo")  
 
 ### Pontuação após o fim de uma partida
-![alt text](https://github.com/Nelson198/PC/Screenshots/Leaderboard.png "Pontuação após o fim de uma partida")  
+![Foto 9](https://github.com/Nelson198/PC/blob/master/Screenshots/Leaderboard.png "Pontuação após o fim de uma partida")  
 
 ### Espera até que uma partida esteja disponível
-![alt text](https://github.com/Nelson198/PC/Screenshots/Espera.png "Espera até que uma partida esteja disponível")
+![Foto 10](https://github.com/Nelson198/PC/blob/master/Screenshots/Espera.png "Espera até que uma partida esteja disponível")
