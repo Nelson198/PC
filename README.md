@@ -5,6 +5,12 @@ O objetivo deste trabalho prático, elaborado no âmbito da unidade curricular *
 Nesta adaptação do jogo, os utilizadores podem interagir, usando uma aplicação cliente com interface gráfica (escrita em *​Java*​) e intermediada por um servidor (escrito em *​Erlang*​).  
 Os avatares dos jogadores movimentam-se num espaço​ *2D* e, para além disso, estes também interagem entre si e com o ambiente que os rodeia, segundo uma simulação efetuada pelo servidor. O cliente com interface gráfica comunica com o servidor via ​*sockets* *TCP*.​ Quanto ao servidor é armazenado em memória a informação relativa à simulação do jogo, tratando-se das conexões, dos ​*inputs* dos clientes e das alterações a serem enviadas à interface gráfica.
 
+## Contribuidores
+
+[Nelson Teixeira](https://github.com/Nelson198)  
+[João Imperadeiro](https://github.com/JRI98)  
+[Ricardo Vieira](https://github.com/rvkaki)
+
 ## Screenshots
 
 ### Menu principal
